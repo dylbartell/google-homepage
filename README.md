@@ -1,0 +1,1 @@
+A replication of the Google homepage using HTML and CSS. This was my first complete project and I'm very pleased with the results. The biggest challenge I faced was organizing the architecture of the page and I now feel like I have a much better grasp on it. I'm looking forward to undertaking more complex projects that integrate JS and JQuery. 
